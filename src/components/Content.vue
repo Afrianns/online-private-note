@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import IconFiles from "./icons/IconFiles.vue";
 import IconCheck from "./icons/IconCheck.vue";
-import Swal from 'sweetalert2/dist/sweetalert2';
+// import Swal from 'sweetalert2/dist/sweetalert2';
 
 import { marked } from 'marked';
 import { ref, computed } from "vue";
